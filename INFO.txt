@@ -1,0 +1,11 @@
+part 1 is Graph and GridGraph
+part 2 is GridDiagGraph
+part 3 is RadialGraph
+
+
+INFO ACTUAL ON 22/02/23
+
+MAY CHANGE
+
+ALL FILES ARE EXPECTED TO BE MERGED, WHEN ALL THE CLASSES ARE REMADE
+algs.cpp -> algs.hpp (header file)
